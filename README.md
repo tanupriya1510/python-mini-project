@@ -20,5 +20,5 @@ Update the Python file:
 Replace the placeholder values in your code with your actual:
 account_sid = "your_account_sid_here"
 auth_token = "your_auth_token_here"
-from_whatsapp_number = "whatsapp:+14155238886"  # Example sandbox number
+from_whatsapp_number = "whatsapp:+18857583493"  # Example sandbox number
 to_whatsapp_number = "whatsapp:+91xxxxxxxxxx"   # Your verified number
